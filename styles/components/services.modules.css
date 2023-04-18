@@ -72,6 +72,10 @@
     text-align: center;
   }
 
+  .services-table-item h3{
+    padding-top: 1em;
+  }
+
 
 }
 

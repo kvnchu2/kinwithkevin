@@ -187,7 +187,7 @@ export default function Home() {
                     </div>
                     
                     <p className="cs-item-p">
-                    I found Kevin to be an excellent teacher.  He was consistently supportive and encouraging. He recognized the difficulty that older persons have in establishing a new behaviour pattern and found opportunities to compliment me on incremental (sometimes pretty minimal) progress.
+                    I found Kevin to be an excellent teacher.  He was consistently supportive and encouraging. He recognized the difficulty that older persons have in establishing a new behaviour pattern!
                     </p>
                     <span className="cs-reviewer">
                         Dr. Carol Herbert

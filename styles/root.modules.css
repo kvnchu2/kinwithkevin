@@ -35,10 +35,10 @@
   body {
     font-size: 17px;
   }
-  .section {
+  /* .section {
     padding-top: 5em;
     padding-bottom: 5em;
-  }
+  } */
   .wrapper {
     width: 100%;
     max-width: 22.5em;

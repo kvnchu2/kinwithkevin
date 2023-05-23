@@ -1,5 +1,8 @@
 /*mobile*/
 @media only screen and (min-width: 0em) {
+  #services-table {
+    padding-top: 4em;
+  }
 
   #services-table .cs-topper {
     font-size: var(--topperFontSize);

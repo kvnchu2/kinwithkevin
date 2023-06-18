@@ -441,8 +441,9 @@ main {
   .services .card p {
     text-align: center;
     line-height: 1.33333333em;
-    width: 100%;
+    width: 85%;
     opacity: .7;
+    margin: auto;
   }
 }
 /* Inbetween */
@@ -450,7 +451,7 @@ main {
   .services {
     font-size: min(1.8vw, 1em);
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: flex-start;
     width: 98%;
   }

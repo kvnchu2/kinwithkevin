@@ -38,7 +38,7 @@ return (
                       <li><h2>Get in Touch</h2></li>
                       <li><div className="footer-icon"><Image loading="lazy" decoding="async" src={Pin} alt="" width="24" height="24" /></div><a href="" target="_blank">Vancouver, BC</a></li>
                       <li><div className="footer-icon"><Image loading="lazy" decoding="async" src={FooterPhone} alt="" width="24" height="24" /></div><a href="tel:555-213-9120">(236) 512-5182</a></li>
-                      <li><div className="footer-icon"><Image loading="lazy" decoding="async" src={Email} alt="" width="24" height="24" /></div><a href="mailto:info@email.com">kvnchu2@gmail.com</a></li>
+                      <li><div className="footer-icon"><Image loading="lazy" decoding="async" src={Email} alt="" width="24" height="24" /></div><a href="mailto:info@email.com">kinwithkevin@gmail.com</a></li>
                   </ul>
               </div>
   

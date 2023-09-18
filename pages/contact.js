@@ -62,7 +62,7 @@ const Contact = () => {
             </div>
             <div className="info-group">
                 <span className="heading">Email</span>
-                <a className="info" href="mailto:info@email.com">kvnchu2@gmail.com</a>
+                <a className="info" href="mailto:info@email.com">kinwithkevin@gmail.com</a>
             </div>
             <div className="info-group">
                 <span className="heading">Hours</span>

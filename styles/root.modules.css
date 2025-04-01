@@ -771,6 +771,10 @@
   #footer .left-section {
     margin: auto;
     margin-bottom: 2.5em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
   #footer .left-section .logo {
     display: block;
@@ -860,6 +864,11 @@
   }
   .footer-logo {
     padding-bottom: 3rem;
+  }
+  .waterview-logo {
+    width: 50%;
+    height: 50%;
+    padding-bottom: 20px;
   }
 }
 /* Tablet */

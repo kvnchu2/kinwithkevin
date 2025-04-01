@@ -2,7 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import React, { useState } from "react";
 import NavItem from "./NavItem";
-import Kinwithkevin from "../public/images/kinesiology-with-kevin-high-resolution-logo-color-on-transparent-background.png";
+import KcExerciseRehab from "../public/images/kc-exercise-rehab.png";
 
 const MENU_LIST = [
   { text: "Home", href: "/" },
@@ -21,7 +21,7 @@ const Navbar = () => {
           <Link href={"/"}>
             <a>
               <div className="logo">
-                <Image src={Kinwithkevin} alt="kinesiologywithkevin"/>
+                <Image src={KcExerciseRehab} alt="kinesiologywithkevin"/>
               </div>
             </a>
           </Link>

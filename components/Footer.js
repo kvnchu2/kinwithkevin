@@ -1,9 +1,10 @@
 import Link from "next/link";
-import Kinwithkevin from "../public/images/kinesiology-with-kevin-high-resolution-logo-color-on-transparent-background.png";
+import KcExerciseRehab from "../public/images/kc-exercise-rehab.png";
 import Image from "next/image";
 import Pin from "../public/images/pin.svg";
 import FooterPhone from "../public/images/footer-phone.svg";
 import Email from "../public/images/email.svg";
+import Waterview from "../public/images/Waterview-Vancouver-Badge.jpg";
 
 export default function footer() {
 
@@ -13,7 +14,12 @@ return (
       <div className="container">
           <div className="left-section">
               <div className="footer-logo">
-              <Image src={Kinwithkevin} alt=""/>
+              <Image src={KcExerciseRehab} alt=""/>
+              </div>
+              <div className="waterview-logo">
+                <a href="https://www.waterviewvancouver.com/">
+                <Image src={Waterview} alt="" />
+                </a>
               </div>
               <p>
                   Kevin is committed to providing the best form of care for your recovery and ensure he saves you time by being accessible to you at the community center gym or at home.
